@@ -66,6 +66,7 @@ RL algorithms for handling combinatorial optimization problems [Deep Learning in
 [Evolutionary Computation for Reinforcement Learning](http://www.cs.ox.ac.uk/people/shimon.whiteson/pubs/whitesonrlsota11.pdf)
 
 [CEM-RL: Combining evolutionary and gradient-based methods for policy search](https://arxiv.org/pdf/1810.01222.pdf)
+
 [Reinforcement learning versus evolutionary computation: A survey on hybrid algorithms](https://www.sciencedirect.com/science/article/pii/S2210650217302766)
 
 # Deep learning as Bayesian inference
@@ -88,7 +89,7 @@ RL algorithms for handling combinatorial optimization problems [Deep Learning in
 
 [Analysis of Thompson Sampling for the Multi-armed Bandit Problem](http://proceedings.mlr.press/v23/agrawal12/agrawal12.pdf)
 
-[Thompson Sampling for Multi-Objective Multi-Armed Bandits Problem]([https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2015-27.pdf)
+[Thompson Sampling for Multi-Objective Multi-Armed Bandits Problem](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2015-27.pdf)
 
 [Thompson Sampling for Contextual Bandits with Linear Payoffs](https://www.microsoft.com/en-us/research/wp-content/uploads/2013/06/report-contextual.pdf)
 
