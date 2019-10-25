@@ -1,2 +1,2 @@
-# Intersting Papers
+# Interesting Papers
 
